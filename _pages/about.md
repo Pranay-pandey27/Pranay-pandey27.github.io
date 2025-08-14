@@ -14,28 +14,3 @@ Along the way, I’ve had the chance to work with some amazing teams—be it dev
 What keeps me motivated is the excitement of learning something new and the hope that my curiosity can eventually help make a difference, whether that’s in science, technology, or the communities I’m part of. Beyond the lab, you’ll often find me organising events, exploring new ideas with friends, or unwinding with a good book.
 
 Thanks for stopping by and sharing a bit of my journey. Let’s connect and see where discovery takes us next!
-
-A data-driven personal website
-======
-
-Getting started
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
