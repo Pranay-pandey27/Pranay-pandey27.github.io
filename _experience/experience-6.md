@@ -18,31 +18,31 @@ collection: experience
 ---
 
 ## Technical Framework
-- Custom RL Environment: Built an OpenAI Gym-compatible quantum simulator modelling [] Steane code with spatiotemporally correlated Pauli noise.
-- State Space: 128-dimensional vector encoding syndrome history, noise correlations, and logical state fidelity estimates via Choi–Choi-Jamiolkowski representation.
-- Action Space: 64 discrete recovery operations including X/Z Pauli corrections, syndrome measurements, and adaptive waiting periods.
-- Algorithms: Deep Deterministic Policy Gradient (DDPG) with experience replay and target networks; Deep Q-Network (DQN) with ε-greedy exploration.
+- **Custom RL Environment:** Built an OpenAI Gym-compatible quantum simulator modelling [] Steane code with spatiotemporally correlated Pauli noise.
+- **State Space:** 128-dimensional vector encoding syndrome history, noise correlations, and logical state fidelity estimates via Choi–Choi-Jamiolkowski representation.
+- **Action Space:** 64 discrete recovery operations including X/Z Pauli corrections, syndrome measurements, and adaptive waiting periods.
+- **Algorithms:** Deep Deterministic Policy Gradient (DDPG) with experience replay and target networks; Deep Q-Network (DQN) with ε-greedy exploration.
 
 ---
 
 ## Strategic Codes Implementation
-- Spatio-Temporal Framework: Implemented dynamic stabiliser scheduling, adapting to noise correlation lengths τ ∈ timesteps.
-- Noise Models: Correlated amplitude damping (T₁ = 100 μs), dephasing (T₂ = 80 μs), and crosstalk with nearest-neighbour coupling strength g = 0.02.
-- Code Distance: Evaluated on distance-3 codes with seven physical qubits encoding one logical qubit.
+- **Spatio-Temporal Framework:** Implemented dynamic stabiliser scheduling, adapting to noise correlation lengths τ ∈ timesteps.
+- **Noise Models:** Correlated amplitude damping (T₁ = 100 μs), dephasing (T₂ = 80 μs), and crosstalk with nearest-neighbour coupling strength g = 0.02.
+- **Code Distance:** Evaluated on distance-3 codes with seven physical qubits encoding one logical qubit.
 
 ---
 
 ## Simulation & Training
-- Training: 5×10⁴ episodes over 200 hours GPU time (NVIDIA A100), batch size 256, learning rate 3×10⁻⁴.
-- Validation: 10⁴ Monte Carlo trajectories with 20-50 correction cycles per episode.
-- Benchmarks: Static majority-vote decoder, lookup-table decoder, and minimum-weight perfect matching (MWPM).
+- **Training:** 5×10⁴ episodes over 200 hours GPU time (NVIDIA A100), batch size 256, learning rate 3×10⁻⁴.
+- **Validation:** 10⁴ Monte Carlo trajectories with 20-50 correction cycles per episode.
+- **Benchmarks:** Static majority-vote decoder, lookup-table decoder, and minimum-weight perfect matching (MWPM).
 
 ---
 ## Performance Results
-- Logical Fidelity: RL-adaptive QEC achieved 0.94 ± 0.02 average fidelity vs. 0.76 ± 0.04 for the static MWPM decoder.
-- Threshold Improvement: Effective error threshold increased from 8.2×10⁻⁴ (static) to 1.4×10⁻³ (RL-adaptive), representing 71% improvement.
-- Syndrome Detection Efficiency: RL agent reduced average syndrome measurements by 35% while maintaining >90% error detection accuracy.
-- Non-Markovian Robustness: Sustained >85% fidelity under noise autocorrelation times τ = 30, where traditional decoders dropped to <50%.
+- **Logical Fidelity:** RL-adaptive QEC achieved 0.94 ± 0.02 average fidelity vs. 0.76 ± 0.04 for the static MWPM decoder.
+- **Threshold Improvement:** Effective error threshold increased from 8.2×10⁻⁴ (static) to 1.4×10⁻³ (RL-adaptive), representing 71% improvement.
+- **Syndrome Detection Efficiency:** RL agent reduced average syndrome measurements by 35% while maintaining >90% error detection accuracy.
+- **Non-Markovian Robustness:** Sustained >85% fidelity under noise autocorrelation times τ = 30, where traditional decoders dropped to <50%.
 
 ---
 
