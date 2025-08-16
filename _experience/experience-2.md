@@ -29,9 +29,9 @@ collection: experience
 ---
 
 ## Experimental Setup
-- Test cavities: 3 cm Zerodur, 10 cm quartz, 1.5 cm quartz—each monitored using an 852nm Cs-referenced laser and wide-band EOM sideband locking
-- Temperature control: PID-regulated TECs with thermistor feedback
-- Pressure control: vacuum chamber sealing and airtight acrylic enclosure  
+- **Test cavities**: 3 cm Zerodur, 10 cm quartz, 1.5 cm quartz—each monitored using an 852nm Cs-referenced laser and wide-band EOM sideband locking
+- **Temperature control**: PID-regulated TECs with thermistor feedback
+- **Pressure control**: vacuum chamber sealing and airtight acrylic enclosure  
 
 ---
 
@@ -44,15 +44,12 @@ collection: experience
 ---
 
 ## Key Findings
-- Unstabilized cavities drifted by 8–17 MHz/day; temperature sensitivity far exceeded
-theoretical α = 5.5 × 10⁻⁷ K⁻¹ due to epoxy layers (effective α ≈ 2.8 × 10⁻⁶ K⁻¹)
-- Pressure-sealed cavity eliminated rapid pressure-induced shifts; residual drift dominated
-by temperature and material ageing.g
-- Dual-laser locking successfully tracked cavity resonance variations, enabling
-post-correction of portable laser frequencies.
+- Unstabilized cavities drifted by 8–17 MHz/day; temperature sensitivity far exceeded theoretical α = 5.5 × 10⁻⁷ K⁻¹ due to epoxy layers (effective α ≈ 2.8 × 10⁻⁶ K⁻¹)
+- Pressure-sealed cavity eliminated rapid pressure-induced shifts; residual drift dominated by temperature and material ageing.g
+- Dual-laser locking successfully tracked cavity resonance variations, enabling post-correction of portable laser frequencies.
 
 ---
 
 ## Conclusions & Future Work
 - Combined thermal and pressure stabilisation yields a robust, compact cavity suitable for portable clock applications.
-- Future studies: explore alternative low‐α adhesives, extend monitoring durations to characterise ageing trends, and integrate active pressure control for fully closed-loop stabilisation
+- **Future studies:** Explore alternative low‐α adhesives, extend monitoring durations to characterise ageing trends, and integrate active pressure control for fully closed-loop stabilisation
