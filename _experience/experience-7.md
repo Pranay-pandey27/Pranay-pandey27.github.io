@@ -4,11 +4,6 @@ excerpt: "Research Intern"
 collection: experience
 ---
 
-## K-Block Group Algebra (K-BGA)  
-**Research Intern**
-
----
-
 ## Role & Supervision
 - Research Intern under Dr. Kishor Bharti, ASTAR Singapore (May '24)
 
