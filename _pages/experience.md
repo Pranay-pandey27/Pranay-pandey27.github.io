@@ -28,7 +28,7 @@ author_profile: true
 <ul>
   {% for post in site.experience %}
     {% assign num = post.path | split: "-" | last | split: "." | first | plus: 0 %}
-    {% if num >= 4  and num <= 6 %}
+    {% if num >= 4 and num <= 6 %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>  
         <p><em>{{ post.excerpt }}</em></p>
@@ -38,10 +38,11 @@ author_profile: true
 </ul>
 
 - **Quantum Error Correction**
-  <ul>
+
+<ul>
   {% for post in site.experience %}
     {% assign num = post.path | split: "-" | last | split: "." | first | plus: 0 %}
-    {% if num >= 5 % }
+    {% if num >= 5 %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>  
         <p><em>{{ post.excerpt }}</em></p>
