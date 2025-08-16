@@ -4,11 +4,6 @@ excerpt: "Research Intern"
 collection: experience
 ---
 
-## Reinforcement Learning for Dynamical Quantum Error Correction  
-**Research Intern**
-
----
-
 ## Role & Supervision
 - Research Intern under Dr. Kishor Bharti, ASTAR Singapore (July '24)
 
