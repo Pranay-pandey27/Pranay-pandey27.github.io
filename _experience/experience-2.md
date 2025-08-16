@@ -4,11 +4,6 @@ excerpt: "Summer Intern"
 collection: experience
 ---
 
-## Designing Compact Thermal and Pressure-Stabilised Cavity for Portable Atomic Clocks 
-**Summer Intern**
-
----
-
 ## Project Role & Supervision
 - Research Intern under Prof. Douglas Murray Barrett, National University of Singapore (May ’24)
 - Goal: Develop a passively stable optical reference cavity suitable for use in field-deployable atomic clocks
