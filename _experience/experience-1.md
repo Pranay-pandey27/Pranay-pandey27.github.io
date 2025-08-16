@@ -4,7 +4,6 @@ excerpt: "Master's Thesis Project on Ba⁺ ion clocks"
 collection: experience
 ---
 
----
 
 ## Research Aim & Objective
 - Experimentally measure the differential polarizability zero crossing in the Ba⁺ ion clock transition at 480 nm wavelength  
