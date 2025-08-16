@@ -4,10 +4,6 @@ excerpt: "Research Intern"
 collection: experience
 ---
 
-## Applications of Quantum Reservoir Computing (QRC) in High-Energy Physics  
-**Research Intern**
-
----
 
 ## Role & Supervision
 - Research Intern under Shalini Devendrababu, Fractal Analytics (Feb ’25)
