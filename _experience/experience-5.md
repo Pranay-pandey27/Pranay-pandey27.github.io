@@ -19,10 +19,10 @@ collection: experience
 ---
 
 ## Data & Preprocessing
-- Dataset: 10,000+ hourly load profiles (real E.ON data + synthetic series modelling seasonality, holidays, weather).
-- Rolling-window split: 80% train / 20% test to preserve temporal order.
-- Features: Loads at t–1…t–24, one-hot hour/day encodings, ambient temperature.
-- Standardisation: z-score normalisation using training-set statistics.
+- **Dataset:** 10,000+ hourly load profiles (real E.ON data + synthetic series modelling seasonality, holidays, weather).
+- **Rolling-window split:** 80% train / 20% test to preserve temporal order.
+- **Features:** Loads at t–1…t–24, one-hot hour/day encodings, ambient temperature.
+- **Standardisation:** z-score normalisation using training-set statistics.
 
 ---
 
@@ -76,15 +76,15 @@ collection: experience
 ---
 
 ## Sustainability & Scalability
-- Energy footprint: ~5.2 kWh per full pipeline run (quantum simulation + readout).
-- Carbon estimate: 1.4 kg CO₂/month under continuous forecasting.
-- Scalability plan: Evaluate cloud-based quantum simulator services and emerging NISQ hardware for real-time grid forecasting.
+- **Energy footprint:** ~5.2 kWh per full pipeline run (quantum simulation + readout).
+- **Carbon estimate:** 1.4 kg CO₂/month under continuous forecasting.
+- **Scalability plan:** Evaluate cloud-based quantum simulator services and emerging NISQ hardware for real-time grid forecasting.
 
 ---
 
 ## Conclusion & Next Steps
 - Quantum–classical models demonstrate robust RMSE improvements and superior temporal pattern learning.
-- Future work: Extend QRC to 8–16 qubits, incorporate real-time weather forecasts, and benchmark on early-access quantum hardware for live operational trials.
+- **Future work:** Extend QRC to 8–16 qubits, incorporate real-time weather forecasts, and benchmark on early-access quantum hardware for live operational trials.
 
 
 
