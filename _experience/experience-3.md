@@ -4,11 +4,7 @@ excerpt: "Research Intern Role & Supervision"
 collection: experience
 ---
 
-# Characterising circuitry for Evaporative cooling  
-**Research Intern Role & Supervision**
----
 
----
 ## Characterising Circuitry for Evaporative Cooling | Research Intern  
 
 **Role & Supervision**  
