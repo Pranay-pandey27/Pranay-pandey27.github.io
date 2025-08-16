@@ -4,9 +4,6 @@ excerpt: "Master's Thesis Project on Ba⁺ ion clocks"
 collection: experience
 ---
 
-## Precise Measurements and Advanced Modelling of Barium Ion Polarizability  
-**Master's Thesis Project**
-
 ---
 
 ## Research Aim & Objective
