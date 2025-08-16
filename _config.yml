@@ -224,7 +224,7 @@ collections:
     permalink: /:collection/:path/
   experience:
     output: true
-    permalink: /:collection/:path/
+    permalink: /experience/:path/
   talks:
     output: true
     permalink: /:collection/:path/
