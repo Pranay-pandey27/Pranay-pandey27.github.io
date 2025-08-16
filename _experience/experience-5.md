@@ -4,10 +4,6 @@ excerpt: ""
 collection: experience
 ---
 
-## Energy Demand Forecasting Using Quantum Machine Learning 
-
----
-
 ## Role & Supervision
 - Research Intern under Dr. Corey O’Meara, E.ON Digital Technology & Womanium Quantum (Dec ’24)
 
