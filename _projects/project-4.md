@@ -1,5 +1,6 @@
 ---
 title: "Variational Quantum Eigensolver for Molecular Ground State Calculation"
+excerpt: ""
 collection: projects
 ---
 
