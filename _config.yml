@@ -22,7 +22,7 @@ repository               : "pranay-pandey27/pranay-pandey27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.png"
+  avatar           : "images/profile-pic.png"
   name             : "About me"
   pronouns         : # example: "He/Him"  
   bio              : "Experimental Quantum Physicist"
