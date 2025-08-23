@@ -1,5 +1,6 @@
 ---
 title: "Kibble Zurek Mechanism"
+excerpt: ""
 collection: projects
 ---
 # Overview
