@@ -1,5 +1,6 @@
 ---
 title: "Solving Multi-Component BECs and Stochastic Effects in GPEs"
+excerpt: ""
 collection: projects
 ---
 This project investigated how modifying the temperature-dependent terms in the Stochastic Gross-Pitaevskii Equation (SPGPE) might allow Bose-Einstein condensates (BECs) to persist at temperatures above the conventional upper limit of roughly 0.8 Tc. 
