@@ -1,6 +1,6 @@
 ---
 title: "Quantum Computational Resources: Stabiliser Formalism, Magic States, and Contextuality"
-excerpt: "Quantum Computational Resources"
+excerpt: ""
 collection: projects
 ---
 
