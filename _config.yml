@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pranay"
+title                    : #
 title_separator          : "-"
 name                     : &name "Pranay Pandey"
 description              : &description "Experimental Quantum Physicist"
@@ -23,7 +23,7 @@ repository               : "pranay-pandey27/pranay-pandey27.github.io"
 author:
   # Biographic information
   avatar           : "profile-pic (1).jpg"
-  name             : "About me"
+  name             : "Pranay Pandey"
   pronouns         : # example: "He/Him"  
   bio              : "Experimental Quantum Physicist"
   location         : "India"
