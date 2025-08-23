@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Projects
+
 
 <ul>
   {% for post in site.projects %}
