@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #
+title                    : "Pranay Pandey"
 title_separator          : "-"
 name                     : &name "Pranay Pandey"
 description              : &description "Experimental Quantum Physicist"
